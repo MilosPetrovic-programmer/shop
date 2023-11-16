@@ -1,2 +1,2 @@
 # shop
-OOP (Object-oriented programing) , eCommerc site
+OOP (Object-oriented programing) , eCommerce site
